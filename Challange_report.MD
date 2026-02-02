@@ -1,7 +1,6 @@
 # Tenx MCP Setup Challenge - Documentation Report
 
-**Completed by:** [Estifanos Teklay] 
-**Date:** February 2, 2026  
+**Completed by:** Estifanos Teklay  
 **IDE Used:** Visual Studio Code  
 **Operating System:** Windows
 
