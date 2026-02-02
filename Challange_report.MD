@@ -13,7 +13,7 @@ This document details the complete setup and configuration of the Tenx MCP Analy
 
 ## Task 1: MCP Server Setup
 
-### What I Did
+### Tasks Done
 
 #### 1. Environment Preparation
 - Updated VS Code to the latest version
@@ -34,6 +34,7 @@ tenx-mcp-challenge/
 │   └── copilot-instructions.md
 ├── .vscode/
 │   └── mcp.json
+└── Challange_report.md
 └── README.md
 ```
 
@@ -94,10 +95,6 @@ Key configuration elements:
 - **Impact:** Minor - the server was running and functional despite not seeing the tools UI
 - **Resolution:** Proceeded with the understanding that the MCP server operates in the background and logs interactions automatically, even without visible tool confirmation
 
-⚠️ **Initial Directory Creation**
-- **Issue:** First attempt to create directories using standard bash commands didn't work on Windows
-- **Resolution:** Switched to PowerShell commands (`mkdir` and `New-Item`) which worked perfectly
-
 ### Insights Gained
 
 #### 1. MCP Architecture Understanding
@@ -145,7 +142,7 @@ Key configuration elements:
    - Security-first mindset
    - Iterative improvement approach
 
-### What I Did
+### Tasks done
 
 Created comprehensive `copilot-instructions.md` file with the following sections:
 
