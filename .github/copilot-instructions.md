@@ -153,9 +153,4 @@ This repository is for the Tenx MCP Setup Challenge - demonstrating effective AI
 - Remove outdated rules
 - Keep instructions concise and actionable
 
-## Remember
 
-> "A good plan is really important! Plan first, then execute."
-> - Boris Cherny, Creator of Claude Code
-
-This file should evolve over time. When you spot an issue or learn something new, update these instructions so the AI agent (and your team) benefits from that knowledge going forward.
