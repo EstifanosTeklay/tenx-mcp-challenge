@@ -1,6 +1,6 @@
 # Tenx MCP Setup Challenge - Documentation Report
 
-**Completed by:** [Estifanos Teklay]  
+**Completed by:** Estifanos Teklay 
 **Date:** February 2, 2026  
 **IDE Used:** Visual Studio Code  
 **Operating System:** Windows
@@ -249,36 +249,6 @@ Effective rules work at multiple levels:
 - **Contextual:** Project-specific guidelines
 
 This layered approach gives the agent both high-level direction and concrete actionable guidance.
-
----
-
-## Overall Challenge Insights
-
-### Technical Competency Demonstrated
-- Successfully configured MCP server with proper authentication
-- Created correct directory structure and configuration files
-- Understood and implemented HTTP-based MCP connection
-- Managed version control throughout the process
-
-### AI Openness & Curiosity
-- Researched best practices from multiple sources
-- Studied Boris Cherny's workflow in detail
-- Explored GitHub Copilot documentation
-- Applied learnings to create comprehensive rules file
-
-### Problem-Solving Approach
-- When tools icon wasn't visible, verified server status through alternative means
-- Adapted commands for Windows environment
-- Used systematic step-by-step approach
-- Maintained clear documentation throughout
-
-### Time Management
-- Completed all three tasks within the 1.5-hour window
-- Prioritized critical setup steps first
-- Balanced research depth with time constraints
-- Maintained quality while working efficiently
-
----
 
 ## Key Takeaways
 
